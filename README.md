@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Backend**
 
 - 💬 Ask me about **web development, DSA, Python**
 
 - 📫 How to reach me **sharmajrohit1004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11aBoONAaA1BXzgil8U04z2bc3r8epyI2/view?usp=sharing](https://drive.google.com/file/d/11aBoONAaA1BXzgil8U04z2bc3r8epyI2/view?usp=sharing)
+- 📄 Know about my experiences:  [Resume](https://drive.google.com/file/d/1JiMSC9SZl_hAxjUVa14E4d50Wb-rAZrv/view?usp=sharing)
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
