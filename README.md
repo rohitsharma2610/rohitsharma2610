@@ -30,3 +30,8 @@
 <h3 align="left">🔗Hactoberfest 2024:</h3>
 <img src="https://holopin.me/rohitsharma2610">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rohitsharma2610/rohitsharma2610/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rohitsharma2610/rohitsharma2610/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rohitsharma2610/rohitsharma2610/output/github-snake.svg" />
+</picture>
