@@ -4,9 +4,9 @@
 <br>
 
 
-- 🌱 I’m currently learning **Backend**
+- 🌱 I’m currently learning **Gen Ai**
 
-- 💬 Ask me about **web development, DSA, Python**
+- 💬 Ask me about **web development, Python, AI**
 
 - 📫 How to reach me **sharmajrohit1004@gmail.com**
 
