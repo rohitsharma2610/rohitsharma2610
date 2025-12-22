@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sharmajrohit1004@gmail.com**
 
-- 📄 Know about my experiences:  [Resume]([https://drive.google.com/file/d/1JiMSC9SZl_hAxjUVa14E4d50Wb-rAZrv/view?usp=sharing](https://drive.google.com/file/d/1h511CisrQ43UaSkV3gns0WdpyS85sM2w/view))
+- 📄 Know about my experiences:  [Resume]([https://drive.google.com/file/d/1JiMSC9SZl_hAxjUVa14E4d50Wb-rAZrv/view?usp=sharing](https://drive.google.com/file/d/1h511CisrQ43UaSkV3gns0WdpyS85sM2w/view)
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
