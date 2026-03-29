@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohit Sharma</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Full-stack dev & community builder | 2500+ devs | DevRel & real-world projects</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <br>
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **sharmajrohit1004@gmail.com**
 
-- 📄 Know about my experiences:  [Resume]([https://drive.google.com/file/d/1h511CisrQ43UaSkV3gns0WdpyS85sM2w/view](https://drive.google.com/file/d/1ZhuX3H6ruklpbk4t8TTvaS2iT7itxkIF/view?usp=sharing))
+- 📄 Know about my experiences:  [Resume]([[https://drive.google.com/file/d/1h511CisrQ43UaSkV3gns0WdpyS85sM2w/view](https://drive.google.com/file/d/1HFLzvEsIo8CzTyMMqPYXnn3mr-UNxL34/view)](https://drive.google.com/file/d/1ZhuX3H6ruklpbk4t8TTvaS2iT7itxkIF/view?usp=sharing))
 
 <h3 align="left">🔗Connect with me:</h3>
 <p align="left">
